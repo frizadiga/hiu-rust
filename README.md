@@ -1,1 +1,2 @@
-"# hiu-rust" 
+# hiu-rust 
+rust language playground
