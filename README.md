@@ -1,2 +1,2 @@
-# hiu-rust 
-rust language playground
+# rust_play 
+just my rust language playground
