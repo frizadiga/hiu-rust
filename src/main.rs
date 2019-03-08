@@ -1,4 +1,5 @@
+mod print;
+
 fn main() {
-    let name = "friza";
-    println!("Hello, world! {}", name);
+    print::run("tomomi");
 }
