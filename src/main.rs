@@ -1,5 +1,9 @@
-mod print;
+// mod prints;
+// mod variables;
+mod types;
 
 fn main() {
-    print::run("tomomi");
+    // prints::run("tomomi");
+    // variables::run();
+    types::run();
 }
